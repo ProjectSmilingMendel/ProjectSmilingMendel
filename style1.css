@@ -1,6 +1,10 @@
 	body{
 		background : url("rp.png");
-	}
+	font-size : 1vw;
+}
+p{
+	font-size:2vmin;
+}
 	img{
 	border-radius:100%;
 	}
