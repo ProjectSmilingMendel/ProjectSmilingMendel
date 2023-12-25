@@ -7,8 +7,8 @@
 	p{font-size:2vmin;}
 	
 
-	img{border-radius:100%;}
-	img:hover{background-color:#FFFFFF;}
+	img.mendel_logo{border-radius:100%;}
+	img.mendel_logo:hover{background-color:#FFFFFF;}
 	
 	
 	h1{font-size:40px;font-family:Helvetica;}
@@ -18,7 +18,7 @@
 	heading1{font-size:30px}
 	
 	td{font-family:Monospace;font-size:2vmin;height : 1vh;}
-	td.DIVIDOR{font-size:10vmin;}
+	td.DIVIDOR{font-size:10vmin;font-weight:bold}
 
 	th.OPTION{font-size:2vmin;font-family:Monospace;background-color:#00AA00; width:10vmin;opacity:70%;height : 1vh;}
 	th.OPTION:hover{background-color:#00FF00}
