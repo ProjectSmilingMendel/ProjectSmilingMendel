@@ -1,14 +1,23 @@
 	body{
 		background : url("rp.png");
-	font-size : 1vw;
-}
-p{
-	font-size:2vmin;
-}
-	img{
-	border-radius:100%;
+		font-size : 1vw;
 	}
-		h1{font-size:40px;font-family:Helvetica;}
-		article{font-size:24px;margin-left:150px;margin-right:150px;line-height:30px}
-		heading1{font-size:30px}
-		td{font-family:Monospace;font-size:150px}
+	
+
+	p{font-size:2vmin;}
+	
+
+	img{border-radius:100%;}
+	
+	
+	h1{font-size:40px;font-family:Helvetica;}
+	
+	article{font-size:24px;margin-left:150px;margin-right:150px;line-height:30px}
+	
+	heading1{font-size:30px}
+	
+	td{font-family:Monospace;font-size:2vmin;height : 1vh;}
+	td.DIVIDOR{font-size:10vmin;}
+
+	th.OPTION{font-size:2vmin;font-family:Monospace;background-color:#00AA00; width:10vmin;opacity:70%;height : 1vh;}
+	th.OPTION:hover{background-color:#00FF00}
